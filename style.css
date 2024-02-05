@@ -1,0 +1,150 @@
+.background{
+
+
+    padding: 2rem;
+    padding-left: 2.5rem;
+    background: darkgray;
+    margin: 2rem;;
+    border-radius: 0.5rem;
+}
+
+body{
+
+    /*height: 200vh; */
+    background: linear-gradient(to right bottom, #ffce00, white, #ff6719);
+
+
+}
+
+
+.b1{
+
+    display: flex;
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+    width: 20rem;
+    margin-right: 4rem;
+    float:right;
+
+
+}
+
+.b1:hover{
+    transition-duration: 0.5s;
+    transform: scale(150%);
+
+
+}
+
+.b2{
+
+    display: flex;
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+    width: 20rem;
+    margin-right: 4rem;
+    float:right;
+    transition-duration: 1s;
+    transform: scale(100%);
+
+}
+
+.b2:hover{
+    transition-duration: 1s;
+    transform: scale(200%);
+    border-radius: 0.4rem;
+
+}
+
+
+
+.center{
+    text-align: center;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-bottom: 4rem;
+    margin-top:4rem;
+}
+
+.larger{
+    font-size: 1.2rem
+}
+
+.tab{
+
+    padding-left: 10rem;
+    border-collapse: collapse;
+
+
+
+
+}
+
+
+
+.quelle{
+    list-style-type: none;
+}
+
+ol{
+
+    text-decoration: none;
+    list-style-type: lower-greek;
+
+}
+
+a:link{
+
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+.tabhead{
+
+    border-bottom: 2px solid black;
+    font-size: 1.2rem
+
+}
+
+.marg{
+    margin: 1rem;
+}
+
+.white{
+    background: lightgray;
+    font-size: 1.2rem
+}
+
+
+
+.navbar{
+    background-color: #717A8A;
+
+}
+
+.container-fluid{
+    background-color: #717A8A;
+}
+
+a{
+
+    background-color: #717A8A;
+    padding: 0.4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 1.2rem;
+
+}
